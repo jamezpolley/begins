@@ -272,6 +272,10 @@ are all part of the
 official *begins* documentation
 hosted on `Read The Docs`_.
 
+Aaron Iles presented a talk on begins
+at Pycon-AU 2014. The video is
+available at http://youtu.be/D5l4JNt2ozI
+
 ------
 Issues
 ------
