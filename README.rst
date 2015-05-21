@@ -58,7 +58,7 @@ listed in the package configuration.
 If using `Pip`_ to
 install *begins* then
 the required dependencies will
-be automatically installed.
+be automatically installed if required.
 
 ------------
 Installation

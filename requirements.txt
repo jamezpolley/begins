@@ -1,11 +1,15 @@
+argparse; python_version=='2.6'
 bottle
 coverage
 coveralls
 pip
 flake8
 flask
-funcsigs
+funcsigs; python_version=='3.2'
+funcsigs; python_version=='2.7'
+funcsigs; python_version=='2.6'
 mock
 sphinx
 twine
 wheel
+
